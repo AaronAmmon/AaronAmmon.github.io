@@ -574,7 +574,7 @@ header .intro-text .intro-heading {
 @media only screen and (max-device-width:480px){
        /* styles for mobile browsers smaller than 480px; (iPhone) */
      header .intro-text {
-       padding-top: 150px;
+       padding-top: 200px;
     }
     }
 section {
@@ -593,7 +593,6 @@ section h3.section-subheading {
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
     font-weight: 400;
     color:#DCE0E6;
 }
