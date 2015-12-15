@@ -571,6 +571,12 @@ header .intro-text .intro-heading {
     }
 }
 
+@media only screen and (max-device-width:480px){
+       /* styles for mobile browsers smaller than 480px; (iPhone) */
+     header .intro-text {
+       padding-top: 150px;
+    }
+    }
 section {
     padding: 100px 0;
 }
